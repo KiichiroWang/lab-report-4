@@ -8,7 +8,7 @@
 Used the ssh command and my username and password credentials to login to the remote computer.
   
 4. **Clone Fork**
-  
+
 5. **Ran Incorrect Tests**
 6. **Edit Code**
 7. **Run Corrected Tests**
