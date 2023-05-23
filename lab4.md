@@ -1,24 +1,21 @@
 # Baseline Steps for Lab Report 4
 
-Setup Delete any existing forks of the repository you have on your account
-Setup Fork the repository
-The real deal Start the timer!
-Log into ieng6
-Clone your fork of the repository from your Github account
-Run the tests, demonstrating that they fail
-Edit the code file to fix the failing test
-Run the tests, demonstrating that they now succeed
-Commit and push the resulting change to your Github account (you can pick any commit message!)
+1. **Completed Setup Steps**
 
-1. Completed Setup Steps
+2. **Login to ieng6**
+[Step4]("Step4.PNG)
 
-2. Login to ieng6
-  [Login]("Step1")
+4. **Clone Fork**
+5. **Ran Incorrect Tests**
+6. **Edit Code**
+7. **Run Corrected Tests**
+8. **Github Commit & Push**
   <ssh cs15lsp23qr@ieng6.ucsd.edu><enter><entered password><enter>
   Used the ssh command and my username and password credentials to login to the remote computer.
   
 3. Clone Fork
-    [Login]("Step1")
+[Image]("a")
+
   <git clone><paste link><enter>
   Pasted and cloned the forked repository into the directory.
     
