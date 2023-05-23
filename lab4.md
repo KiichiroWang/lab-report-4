@@ -32,17 +32,17 @@
 6. **Edit Code**
        
        
-   ![Step7](Step7.PNG)
-     
-    <vim ListExamples.java><enter><up><up><up><up><up><up><up><up><up><up><i><right><right><right><right><right><right><backspace><2><escape><:><w><q><enter>
-    Entered the code and traversed to find the line with the incorrect code, then entered edit mode and fixed the line.
+  ![Step7](Step7.PNG)
+   
+  <vim ListExamples.java><enter><up><up><up><up><up><up><up><up><up><up><i><right><right><right><right><right><right><backspace><2><escape><:><w><q><enter>
+  Entered the code and traversed to find the line with the incorrect code, then entered edit mode and fixed the line.
             
 7. **Run Corrected Tests**
             
-    ![Step8](Step8.PNG)
+  ![Step8](Step8.PNG)
       
-    <javac><paste junit library><*.java><enter>
-    Compiled all the .java files.
+  <javac><paste junit library><*.java><enter>
+  Compiled all the .java files.
 
     <java><paste junit library><ListExamplesTests><enter>
     Ran the test files to see that they now work.
