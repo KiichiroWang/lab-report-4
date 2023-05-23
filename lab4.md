@@ -10,6 +10,7 @@
   `<ssh cs15lsp23qr@ieng6.ucsd.edu><enter><entered password><enter>`
   Used the ssh command and my username and password credentials to login to the remote computer.
   
+  
 4. **Clone Fork**
   
   
@@ -17,6 +18,7 @@
   
   `<git clone><paste link><enter>`
   Pasted and cloned the forked repository into the directory.
+  
   
 5. **Ran Incorrect Tests**
     
@@ -29,6 +31,7 @@
    `<java><paste junit library><ListExamplesTests><enter>`
    Ran the test files to see that they did not work.
     
+    
 6. **Edit Code**
        
        
@@ -36,7 +39,8 @@
    
   `<vim ListExamples.java><enter><up><up><up><up><up><up><up><up><up><up><i><right><right><right><right><right><right><backspace><2><escape><:><w><q><enter>`
   Entered the code and traversed to find the line with the incorrect code, then entered edit mode and fixed the line.
-            
+     
+     
 7. **Run Corrected Tests**
             
   ![Step8](Step8.PNG)
@@ -46,6 +50,7 @@
 
   `<java><paste junit library><ListExamplesTests><enter>`
   Ran the test files to see that they now work.
+            
             
 8. **Github Commit & Push**
 
