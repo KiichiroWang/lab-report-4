@@ -11,7 +11,7 @@
   Used the ssh command and my username and password credentials to login to the remote computer.
   
   
-4. **Clone Fork**
+3. **Clone Fork**
   
   
   ![Step5](Step5.PNG)
@@ -20,7 +20,7 @@
   Pasted and cloned the forked repository into the directory.
   
   
-5. **Ran Incorrect Tests**
+4. **Ran Incorrect Tests**
     
     
   ![Step6](Step6.PNG)
@@ -32,7 +32,7 @@
    Ran the test files to see that they did not work.
     
     
-6. **Edit Code**
+5. **Edit Code**
        
        
   ![Step7](Step7.PNG)
@@ -41,7 +41,7 @@
   Entered the code and traversed to find the line with the incorrect code, then entered edit mode and fixed the line.
      
      
-7. **Run Corrected Tests**
+6. **Run Corrected Tests**
             
   ![Step8](Step8.PNG)
       
@@ -52,7 +52,7 @@
   Ran the test files to see that they now work.
             
             
-8. **Github Commit & Push**
+7. **Github Commit & Push**
 
   ![Step9](Step9.PNG)
       
