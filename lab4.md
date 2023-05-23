@@ -4,14 +4,16 @@
 
 2. **Login to ieng6**
 ![Step4](Step4.PNG)
-
+<ssh cs15lsp23qr@ieng6.ucsd.edu><enter><entered password><enter>
+Used the ssh command and my username and password credentials to login to the remote computer.
+  
 4. **Clone Fork**
+  
 5. **Ran Incorrect Tests**
 6. **Edit Code**
 7. **Run Corrected Tests**
 8. **Github Commit & Push**
-  <ssh cs15lsp23qr@ieng6.ucsd.edu><enter><entered password><enter>
-  Used the ssh command and my username and password credentials to login to the remote computer.
+
   
 3. Clone Fork
 [Image]("a")
