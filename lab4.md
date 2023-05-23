@@ -3,7 +3,7 @@
 1. **Completed Setup Steps**
 
 2. **Login to ieng6**
-[Step4]("Step4.PNG)
+[Step4]("Step4.PNG")
 
 4. **Clone Fork**
 5. **Ran Incorrect Tests**
