@@ -24,30 +24,28 @@
   <javac><paste junit library><*.java><enter>
   Compiled all the .java files.
     
-     <java><paste junit library><ListExamplesTests><enter>
+   <java><paste junit library><ListExamplesTests><enter>
    Ran the test files to see that they did not work.
     
 6. **Edit Code**
        
        
-         ![Step7](Step7.PNG)
-          <vim ListExamples.java><enter><up><up><up><up><up><up><up><up><up><up><i><right><right><right><right><right><right><backspace><2><escape><:><w><q><enter>
-            Entered the code and traversed to find the line with the incorrect code, then entered edit mode and fixed the line.
+   ![Step7](Step7.PNG)
+    <vim ListExamples.java><enter><up><up><up><up><up><up><up><up><up><up><i><right><right><right><right><right><right><backspace><2><escape><:><w><q><enter>
+    Entered the code and traversed to find the line with the incorrect code, then entered edit mode and fixed the line.
             
 7. **Run Corrected Tests**
-            <javac><paste junit 
-                          library><*.java><enter>
-Compiled all the .java files.
-  
- <java><paste junit library><ListExamplesTests><enter>
-   Ran the test files to see that they now work.
+            
+    ![Step8](Step8.PNG)
+    <javac><paste junit library><*.java><enter>
+    Compiled all the .java files.
+
+    <java><paste junit library><ListExamplesTests><enter>
+    Ran the test files to see that they now work.
             
 8. **Github Commit & Push**
 
-  
-   git add .
-   git commit -m "Wooo"
-   git push origin main
-   <username>
-     <password>
+  ![Step9](Step9.PNG)
+   <git add .><git commit -m "Wooo"><git push origin main><username><password>
+    Git added, committed, then pushed everything to the online github repository.
 
